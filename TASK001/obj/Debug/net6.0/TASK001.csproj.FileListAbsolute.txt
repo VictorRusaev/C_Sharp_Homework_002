@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Разработчик. GeekBrains\Введение в язык С#\Homeworks\Homework_002\TASK001\bin\Debug\net6.0\TASK001.exe
+C:\Users\admin\Desktop\Разработчик. GeekBrains\Введение в язык С#\Homeworks\Homework_002\TASK001\bin\Debug\net6.0\TASK001.deps.json
+C:\Users\admin\Desktop\Разработчик. GeekBrains\Введение в язык С#\Homeworks\Homework_002\TASK001\bin\Debug\net6.0\TASK001.runtimeconfig.json
+C:\Users\admin\Desktop\Разработчик. GeekBrains\Введение в язык С#\Homeworks\Homework_002\TASK001\bin\Debug\net6.0\TASK001.dll
+C:\Users\admin\Desktop\Разработчик. GeekBrains\Введение в язык С#\Homeworks\Homework_002\TASK001\bin\Debug\net6.0\TASK001.pdb
+C:\Users\admin\Desktop\Разработчик. GeekBrains\Введение в язык С#\Homeworks\Homework_002\TASK001\obj\Debug\net6.0\TASK001.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Разработчик. GeekBrains\Введение в язык С#\Homeworks\Homework_002\TASK001\obj\Debug\net6.0\TASK001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Разработчик. GeekBrains\Введение в язык С#\Homeworks\Homework_002\TASK001\obj\Debug\net6.0\TASK001.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Разработчик. GeekBrains\Введение в язык С#\Homeworks\Homework_002\TASK001\obj\Debug\net6.0\TASK001.AssemblyInfo.cs
+C:\Users\admin\Desktop\Разработчик. GeekBrains\Введение в язык С#\Homeworks\Homework_002\TASK001\obj\Debug\net6.0\TASK001.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Разработчик. GeekBrains\Введение в язык С#\Homeworks\Homework_002\TASK001\obj\Debug\net6.0\TASK001.dll
+C:\Users\admin\Desktop\Разработчик. GeekBrains\Введение в язык С#\Homeworks\Homework_002\TASK001\obj\Debug\net6.0\refint\TASK001.dll
+C:\Users\admin\Desktop\Разработчик. GeekBrains\Введение в язык С#\Homeworks\Homework_002\TASK001\obj\Debug\net6.0\TASK001.pdb
+C:\Users\admin\Desktop\Разработчик. GeekBrains\Введение в язык С#\Homeworks\Homework_002\TASK001\obj\Debug\net6.0\TASK001.genruntimeconfig.cache
+C:\Users\admin\Desktop\Разработчик. GeekBrains\Введение в язык С#\Homeworks\Homework_002\TASK001\obj\Debug\net6.0\ref\TASK001.dll
