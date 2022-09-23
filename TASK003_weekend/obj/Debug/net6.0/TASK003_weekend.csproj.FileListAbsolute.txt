@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Разработчик. GeekBrains\Введение в язык С#\Homeworks\Homework_002\TASK003_weekend\obj\Debug\net6.0\TASK003_weekend.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Разработчик. GeekBrains\Введение в язык С#\Homeworks\Homework_002\TASK003_weekend\obj\Debug\net6.0\TASK003_weekend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Разработчик. GeekBrains\Введение в язык С#\Homeworks\Homework_002\TASK003_weekend\obj\Debug\net6.0\TASK003_weekend.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Разработчик. GeekBrains\Введение в язык С#\Homeworks\Homework_002\TASK003_weekend\obj\Debug\net6.0\TASK003_weekend.AssemblyInfo.cs
+C:\Users\admin\Desktop\Разработчик. GeekBrains\Введение в язык С#\Homeworks\Homework_002\TASK003_weekend\obj\Debug\net6.0\TASK003_weekend.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Разработчик. GeekBrains\Введение в язык С#\Homeworks\Homework_002\TASK003_weekend\bin\Debug\net6.0\TASK003_weekend.exe
+C:\Users\admin\Desktop\Разработчик. GeekBrains\Введение в язык С#\Homeworks\Homework_002\TASK003_weekend\bin\Debug\net6.0\TASK003_weekend.deps.json
+C:\Users\admin\Desktop\Разработчик. GeekBrains\Введение в язык С#\Homeworks\Homework_002\TASK003_weekend\bin\Debug\net6.0\TASK003_weekend.runtimeconfig.json
+C:\Users\admin\Desktop\Разработчик. GeekBrains\Введение в язык С#\Homeworks\Homework_002\TASK003_weekend\bin\Debug\net6.0\TASK003_weekend.dll
+C:\Users\admin\Desktop\Разработчик. GeekBrains\Введение в язык С#\Homeworks\Homework_002\TASK003_weekend\bin\Debug\net6.0\TASK003_weekend.pdb
+C:\Users\admin\Desktop\Разработчик. GeekBrains\Введение в язык С#\Homeworks\Homework_002\TASK003_weekend\obj\Debug\net6.0\TASK003_weekend.dll
+C:\Users\admin\Desktop\Разработчик. GeekBrains\Введение в язык С#\Homeworks\Homework_002\TASK003_weekend\obj\Debug\net6.0\refint\TASK003_weekend.dll
+C:\Users\admin\Desktop\Разработчик. GeekBrains\Введение в язык С#\Homeworks\Homework_002\TASK003_weekend\obj\Debug\net6.0\TASK003_weekend.pdb
+C:\Users\admin\Desktop\Разработчик. GeekBrains\Введение в язык С#\Homeworks\Homework_002\TASK003_weekend\obj\Debug\net6.0\TASK003_weekend.genruntimeconfig.cache
+C:\Users\admin\Desktop\Разработчик. GeekBrains\Введение в язык С#\Homeworks\Homework_002\TASK003_weekend\obj\Debug\net6.0\ref\TASK003_weekend.dll
