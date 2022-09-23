@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Разработчик. GeekBrains\Введение в язык С#\Homeworks\Homework_002\TASK002_third_from_any\bin\Debug\net6.0\TASK002_third_from_any.exe
+C:\Users\admin\Desktop\Разработчик. GeekBrains\Введение в язык С#\Homeworks\Homework_002\TASK002_third_from_any\bin\Debug\net6.0\TASK002_third_from_any.deps.json
+C:\Users\admin\Desktop\Разработчик. GeekBrains\Введение в язык С#\Homeworks\Homework_002\TASK002_third_from_any\bin\Debug\net6.0\TASK002_third_from_any.runtimeconfig.json
+C:\Users\admin\Desktop\Разработчик. GeekBrains\Введение в язык С#\Homeworks\Homework_002\TASK002_third_from_any\bin\Debug\net6.0\TASK002_third_from_any.dll
+C:\Users\admin\Desktop\Разработчик. GeekBrains\Введение в язык С#\Homeworks\Homework_002\TASK002_third_from_any\bin\Debug\net6.0\TASK002_third_from_any.pdb
+C:\Users\admin\Desktop\Разработчик. GeekBrains\Введение в язык С#\Homeworks\Homework_002\TASK002_third_from_any\obj\Debug\net6.0\TASK002_third_from_any.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Разработчик. GeekBrains\Введение в язык С#\Homeworks\Homework_002\TASK002_third_from_any\obj\Debug\net6.0\TASK002_third_from_any.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Разработчик. GeekBrains\Введение в язык С#\Homeworks\Homework_002\TASK002_third_from_any\obj\Debug\net6.0\TASK002_third_from_any.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Разработчик. GeekBrains\Введение в язык С#\Homeworks\Homework_002\TASK002_third_from_any\obj\Debug\net6.0\TASK002_third_from_any.AssemblyInfo.cs
+C:\Users\admin\Desktop\Разработчик. GeekBrains\Введение в язык С#\Homeworks\Homework_002\TASK002_third_from_any\obj\Debug\net6.0\TASK002_third_from_any.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Разработчик. GeekBrains\Введение в язык С#\Homeworks\Homework_002\TASK002_third_from_any\obj\Debug\net6.0\TASK002_third_from_any.dll
+C:\Users\admin\Desktop\Разработчик. GeekBrains\Введение в язык С#\Homeworks\Homework_002\TASK002_third_from_any\obj\Debug\net6.0\refint\TASK002_third_from_any.dll
+C:\Users\admin\Desktop\Разработчик. GeekBrains\Введение в язык С#\Homeworks\Homework_002\TASK002_third_from_any\obj\Debug\net6.0\TASK002_third_from_any.pdb
+C:\Users\admin\Desktop\Разработчик. GeekBrains\Введение в язык С#\Homeworks\Homework_002\TASK002_third_from_any\obj\Debug\net6.0\TASK002_third_from_any.genruntimeconfig.cache
+C:\Users\admin\Desktop\Разработчик. GeekBrains\Введение в язык С#\Homeworks\Homework_002\TASK002_third_from_any\obj\Debug\net6.0\ref\TASK002_third_from_any.dll
